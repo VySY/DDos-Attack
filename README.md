@@ -15,6 +15,5 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### python ddos-attack.py
 
-### ScreenShot 
 
 <img width="964" alt="DDos-Attack" src="https://github.com/VySY/DDos-Attack/blob/master/image/capture.PNG">

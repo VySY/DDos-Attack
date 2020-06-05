@@ -1,9 +1,7 @@
 # DDos-Attack 
 ### What Is A DDos-Attack
 
-### A Distributed Denial of Service (DDoS) attack is an attempt to make an online service unavailable 
-by overwhelming it with traffic from multiple sources. They target a wide variety of important resources
-from banks to news websites, and present a major challenge to making sure people can publish and access important information
+### A Distributed Denial of Service (DDoS) attack is a hostile attempt to block normal traffic from a server, service, or network by overwhelming the victim or surrounding infrastructure by flooding it with Internet traffic. DDoS attacks achieve effectiveness by leveraging multiple compromised computer systems as sources of attack.
 
 ### Dwonload&Install
 

@@ -17,4 +17,4 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### ScreenShot 
 
-![Image](https://prntscr.com/suho6h)
+<img src=“https://github.com/VySY/DDos-Attack 17”>

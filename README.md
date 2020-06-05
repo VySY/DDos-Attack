@@ -17,4 +17,4 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### ScreenShot 
 
-![capture](file:///C:/Users/SlaKy/Downloads/DDos-Attack/Cattura.PNG)
+![capture](https://prntscr.com/suho6h)

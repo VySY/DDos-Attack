@@ -17,4 +17,4 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### ScreenShot 
 
-![Test Image 1](https://prntscr.com/suho6h)
+![Image 1](https://prntscr.com/suho6h)

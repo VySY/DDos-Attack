@@ -21,7 +21,7 @@ os.system("clear")
 os.system("figlet DDos Attack")
 print
 print "Author   : VySY"
-print "You Tube : Not exist"
+print "You Tube : https://www.youtube.com/channel/UC3iLRbSDcai5dx0OjrYCSuQ?view_as=subscriber"
 print "github   : https://github.com/VySY"
 print
 ip = raw_input("IP Target : ")
